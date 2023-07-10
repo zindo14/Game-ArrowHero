@@ -1,0 +1,5 @@
+# Game-ArrowHero
+
+In the game, the goal is to score as many points (score) as possible by hitting the keys correctly without making a mistake. When the game starts, we have 3 lives that are lost by pressing the wrong key on the keyboard than the one given in the game and not pressing the key after a certain time. When we lose all 3 lives, the game stops and throws out the text GameOver and the Restart button. If we want to continue playing the game by pressing the Restart button, all the acquired points are deleted and we start again from scratch.
+
+U igri je cilj postici sto veći broj poena(score) tačnije pogodaka tastera bez greške. Kada se upali igrica imamo 3 života koja se gube pritiskom pogresnog tastera na tastaturi od datog u igrici i ne stiskanjem tastera posle odredjenog vremena. Kada izgubimo sva 3 života igrica se prekida i izbacuje nam tekst GameOver i dugme Restart. Ako želimo da nastavimo da igramo dalje igricu pritiskom na dugme Restart nam se brišu svi stečeni bodovi i kreču ponovo od nule.
