@@ -1,0 +1,55 @@
+Z:\Programiranje\Danijela\igrica\igrica\bin\Debug\igrica.exe.config
+Z:\Programiranje\Danijela\igrica\igrica\bin\Debug\igrica.exe
+Z:\Programiranje\Danijela\igrica\igrica\bin\Debug\igrica.pdb
+Z:\Programiranje\Danijela\igrica\igrica\obj\Debug\igrica.csprojResolveAssemblyReference.cache
+Z:\Programiranje\Danijela\igrica\igrica\obj\Debug\igrica.Form1.resources
+Z:\Programiranje\Danijela\igrica\igrica\obj\Debug\igrica.Properties.Resources.resources
+Z:\Programiranje\Danijela\igrica\igrica\obj\Debug\igrica.csproj.GenerateResource.Cache
+Z:\Programiranje\Danijela\igrica\igrica\obj\Debug\igrica.exe
+Z:\Programiranje\Danijela\igrica\igrica\obj\Debug\igrica.pdb
+C:\Users\igorb\Desktop\igrica\igrica\bin\Debug\igrica.exe.config
+C:\Users\igorb\Desktop\igrica\igrica\obj\Debug\igrica.exe
+C:\Users\igorb\Desktop\igrica\igrica\obj\Debug\igrica.pdb
+C:\Users\igorb\Desktop\igrica\igrica\bin\Debug\igrica.exe
+C:\Users\igorb\Desktop\igrica\igrica\bin\Debug\igrica.pdb
+C:\Users\igorb\Desktop\igrica\igrica\obj\Debug\igrica.csprojResolveAssemblyReference.cache
+C:\Users\igorb\Desktop\igrica\igrica\obj\Debug\igrica.Form1.resources
+C:\Users\igorb\Desktop\igrica\igrica\obj\Debug\igrica.Properties.Resources.resources
+C:\Users\igorb\Desktop\igrica\igrica\obj\Debug\igrica.csproj.GenerateResource.Cache
+Z:\Programiranje\Danijela\Arrow Hero\igrica\igrica\bin\Debug\igrica.exe.config
+Z:\Programiranje\Danijela\Arrow Hero\igrica\igrica\obj\Debug\igrica.exe
+Z:\Programiranje\Danijela\Arrow Hero\igrica\igrica\obj\Debug\igrica.pdb
+Z:\Programiranje\Danijela\Arrow Hero\igrica\igrica\bin\Debug\igrica.exe
+Z:\Programiranje\Danijela\Arrow Hero\igrica\igrica\bin\Debug\igrica.pdb
+Z:\Programiranje\Danijela\Arrow Hero\igrica\igrica\obj\Debug\igrica.csprojResolveAssemblyReference.cache
+Z:\Programiranje\Danijela\Arrow Hero\igrica\igrica\obj\Debug\igrica.Form1.resources
+Z:\Programiranje\Danijela\Arrow Hero\igrica\igrica\obj\Debug\igrica.Properties.Resources.resources
+Z:\Programiranje\Danijela\Arrow Hero\igrica\igrica\obj\Debug\igrica.csproj.GenerateResource.Cache
+C:\Users\igorb\Desktop\Arrow Hero\igrica\igrica\bin\Debug\igrica.exe.config
+C:\Users\igorb\Desktop\Arrow Hero\igrica\igrica\obj\Debug\igrica.exe
+C:\Users\igorb\Desktop\Arrow Hero\igrica\igrica\obj\Debug\igrica.pdb
+C:\Users\igorb\Desktop\Arrow Hero\igrica\igrica\bin\Debug\igrica.exe
+C:\Users\igorb\Desktop\Arrow Hero\igrica\igrica\bin\Debug\igrica.pdb
+C:\Users\igorb\Desktop\Arrow Hero\igrica\igrica\obj\Debug\igrica.csprojResolveAssemblyReference.cache
+C:\Users\igorb\Desktop\Arrow Hero\igrica\igrica\obj\Debug\igrica.Form1.resources
+C:\Users\igorb\Desktop\Arrow Hero\igrica\igrica\obj\Debug\igrica.Properties.Resources.resources
+C:\Users\igorb\Desktop\Arrow Hero\igrica\igrica\obj\Debug\igrica.csproj.GenerateResource.Cache
+D:\Fakultet\Srednja Skola\Arrow Hero\igrica\igrica\bin\Debug\igrica.exe.config
+D:\Fakultet\Srednja Skola\Arrow Hero\igrica\igrica\bin\Debug\igrica.exe
+D:\Fakultet\Srednja Skola\Arrow Hero\igrica\igrica\bin\Debug\igrica.pdb
+D:\Fakultet\Srednja Skola\Arrow Hero\igrica\igrica\obj\Debug\igrica.Form1.resources
+D:\Fakultet\Srednja Skola\Arrow Hero\igrica\igrica\obj\Debug\igrica.Properties.Resources.resources
+D:\Fakultet\Srednja Skola\Arrow Hero\igrica\igrica\obj\Debug\igrica.csproj.GenerateResource.cache
+D:\Fakultet\Srednja Skola\Arrow Hero\igrica\igrica\obj\Debug\igrica.csproj.CoreCompileInputs.cache
+D:\Fakultet\Srednja Skola\Arrow Hero\igrica\igrica\obj\Debug\igrica.exe
+D:\Fakultet\Srednja Skola\Arrow Hero\igrica\igrica\obj\Debug\igrica.pdb
+D:\Fakultet\Srednja Skola\Arrow Hero\Arrow Hero\igrica\bin\Debug\igrica.exe.config
+D:\Fakultet\Srednja Skola\Arrow Hero\Arrow Hero\igrica\bin\Debug\igrica.exe
+D:\Fakultet\Srednja Skola\Arrow Hero\Arrow Hero\igrica\bin\Debug\igrica.pdb
+D:\Fakultet\Srednja Skola\Arrow Hero\Arrow Hero\igrica\obj\Debug\igrica.csprojAssemblyReference.cache
+D:\Fakultet\Srednja Skola\Arrow Hero\Arrow Hero\igrica\obj\Debug\igrica.Form1.resources
+D:\Fakultet\Srednja Skola\Arrow Hero\Arrow Hero\igrica\obj\Debug\igrica.Properties.Resources.resources
+D:\Fakultet\Srednja Skola\Arrow Hero\Arrow Hero\igrica\obj\Debug\igrica.csproj.GenerateResource.cache
+D:\Fakultet\Srednja Skola\Arrow Hero\Arrow Hero\igrica\obj\Debug\igrica.csproj.CoreCompileInputs.cache
+D:\Fakultet\Srednja Skola\Arrow Hero\Arrow Hero\igrica\obj\Debug\igrica.exe
+D:\Fakultet\Srednja Skola\Arrow Hero\Arrow Hero\igrica\obj\Debug\igrica.pdb
